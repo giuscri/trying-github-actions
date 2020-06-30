@@ -28,3 +28,5 @@ jobs:
       run: |
         which python
         which aws
+        pwd
+        ls -la
