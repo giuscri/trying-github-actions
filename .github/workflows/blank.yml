@@ -30,3 +30,4 @@ jobs:
         which aws
         pwd
         ls -la
+        echo $AWS_ACCESS_KEY_ID
